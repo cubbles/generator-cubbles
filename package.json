@@ -1,0 +1,37 @@
+{
+  "name": "generator-cubbles",
+  "version": "2.3.0",
+  "description": "Yeoman generator for Cubbles -projects.",
+  "license": "MIT",
+  "main": "app/index.js",
+  "repository": "https://pmt.incowia.de/webble/r/client/generator-cubbles.git",
+  "author": {
+    "name": "Hd Böhlau",
+    "email": "hans-dieter.boehlau@incowia.com"
+  },
+  "contributors": {
+    "name": "Judit Ross",
+    "email": "judit.ross@incowia.com"
+  },
+  "publishConfig": {
+    "registry": "https://npm.webblebase.net:444"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.20.0",
+    "chalk": "^1.0.0",
+    "yosay": "^1.0.2",
+    "shelljs": "^0.5.3"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
