@@ -37,6 +37,3 @@ Some notes on how to deal with this:
 
 ## License
 MIT <http://opensource.org/licenses/MIT>
-
-## Releases
-siehe [[Releases.md]]
