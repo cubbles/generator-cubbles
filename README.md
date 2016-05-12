@@ -14,7 +14,7 @@ It lets you easily create and customize Cubbles (custom) web packages via the co
 ## Installation
 
 1. The Yeoman package. Install it if it is not already on your system: `npm install -g yo`
-2. Install the Yeoman generator for Cubbles-WebPackages: `npm install -g https://npm.webblebase.net:444/generator-cubbles/-/generator-cubbles-<version>.tgz`
+2. Install the Yeoman generator for Cubbles-WebPackages: `npm install -g generator-cubbles`
 
 
 ## Scaffold a Cubbles-Project
