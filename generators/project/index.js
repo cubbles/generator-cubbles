@@ -51,6 +51,11 @@ module.exports = yeoman.generators.Base.extend({
                 this.destinationPath('README.md'),
                 this.props
             );
+            this.fs.copyTpl(
+              this.templatePath('%.gitignore'),
+              this.destinationPath('.gitignore'),
+              this.props
+            );
 
             /** Now copy all the other stuff.
              * @see https://github.com/isaacs/node-glob#options
