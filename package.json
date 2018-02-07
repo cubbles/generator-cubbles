@@ -1,6 +1,6 @@
 {
   "name": "generator-cubbles",
-  "version": "2.12.0",
+  "version": "2.13.0",
   "description": "Yeoman generator for Cubbles -projects.",
   "license": "MIT",
   "main": "app/index.js",
