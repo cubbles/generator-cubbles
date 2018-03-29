@@ -5,7 +5,7 @@
     "branch": "devtools-3.0.0"
   },
   "devtools_2x" : {
-    "localFolder": "generators/project/templates/devtools_2x",
+    "localFolder": "generators/project/templates_2x/devtools",
     "repository": "https://github.com/cubbles/cubbles-coder-devtools.git",
     "branch": "devtools-2.15.0"
   }
