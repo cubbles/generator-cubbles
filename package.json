@@ -9,10 +9,10 @@
     "name": "Hd Böhlau",
     "email": "hans-dieter.boehlau@incowia.com"
   },
-  "contributors": {
-    "name": "Judit Ross",
-    "email": "judit.ross@incowia.com"
-  },
+  "contributors": [
+    "Judit Ross <judit.ross@incowia.com>",
+    "Philipp Wagner <wagner@getrequest.de>"
+  ],
   "files": [
     "generators"
   ],
